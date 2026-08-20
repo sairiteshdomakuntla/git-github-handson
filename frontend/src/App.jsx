@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>Get started</h1>
           <p>
-            Thanks for joining <code>src/App.jsx</code> and save to test <code>HMR</code>
+            Editing the file <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
         </div>
         <button
